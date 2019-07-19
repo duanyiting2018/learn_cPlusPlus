@@ -15,6 +15,6 @@ int main()
 		count++; 
 	}
 	cout<<x<<endl;
-	cout<<"步数：";
+	cout<<"步数："<<count;
 	return 0;
 }
